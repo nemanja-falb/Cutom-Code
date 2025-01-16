@@ -31,7 +31,7 @@ wp-config.php
 
 # Log files
 *.log
-
+//Neko tamo
 # htaccess
 /.htaccess
 
